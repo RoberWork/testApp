@@ -20,6 +20,14 @@ ewrwerer
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+/*
+
+werwer
+erwwrwerwerwe
+werwrwer
+wefefe
+ewrwerer
+*/
 
 @NgModule({
   declarations: [
