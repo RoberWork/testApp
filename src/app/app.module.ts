@@ -8,34 +8,12 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 
-/*
-
-werwer
-erwwrwerwerwe
-werwrwer
-wefefe
-ewrwerer
-*/
-
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
-/*
-
-werwer
-erwwrwerwerwe
-werwrwer
-wefefe
-ewrwerer
-*/
-
-
-// Coment add by Rober
-// Coment add by Rober
-// Coment add by Rober
-// Coment add by Rober
-// Coment add by Rober
+import {  } from '../pages/index.paginasl';
+import {  } from '../pages/index.paginasr';
 
 @NgModule({
   declarations: [
@@ -43,7 +21,8 @@ ewrwerer
     AboutPage,
     ContactPage,
     HomePage,
-    TabsPage
+    TabsPage,
+
   ],
   imports: [
     BrowserModule,
